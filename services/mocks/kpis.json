@@ -1,0 +1,22 @@
+{
+  "dashboard": {
+    "e_tickets": "52",
+    "avg_xp": "7/10",
+    "avg_cart": "125 €",
+    "nb_trees": "5"
+  },
+
+  "ClientXP": {
+    "nb_grade": "75",
+    "avg_xp": "7/10",
+    "worst_grade": "1/10",
+    "best_grade": "9/10"
+  },
+
+  "ClientList": {
+    "nb_contact": "7960",
+    "fid_clients": "56%",
+    "evo_periode_prec": "+450",
+    "avg_age": "36 ans"
+  }
+}

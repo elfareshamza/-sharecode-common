@@ -1,0 +1,59 @@
+{
+  "doughnutChart": {
+    "Femmes": 50,
+    "Homme": 50
+  },
+  "pieChart": {
+    "Fid": 50,
+    "Clients": 50
+  },
+  "complexDoughnutChart": {
+    "Vetement": 80,
+    "Bricolage": 20,
+    "Electroménager": 60,
+    "Mobilier": 40
+  },
+  "verticalBarChart": {
+    "semaine 1": 80,
+    "semaine 2": 20,
+    "semaine 3": 10,
+    "semaine 4": 40,
+    "semaine 5": 30,
+    "semaine 6": 50,
+    "semaine 7": 60
+  },
+  "gradientLineChartData": {
+    "semaine 1": 80,
+    "semaine 2": 20,
+    "semaine 3": 10,
+    "semaine 4": 40,
+    "semaine 5": 30,
+    "semaine 6": 50,
+    "semaine 7": 60
+  },
+  "barChart": {
+    "labels": ["16-20", "21-25", "26-30", "31-36", "36-42", "42+"],
+    "datasets": [
+      {
+        "label": "Sales by age",
+        "color": "dark",
+        "data": [15, 20, 12, 60, 20, 15]
+      }
+    ]
+  },
+  "lineChart": {
+    "labels": ["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "datasets": [
+      {
+        "label": "Organic Search",
+        "color": "info",
+        "data": [50, 40, 300, 220, 500, 250, 400, 230, 500]
+      },
+      {
+        "label": "Referral",
+        "color": "dark",
+        "data": [30, 90, 40, 140, 290, 290, 340, 230, 400]
+      }
+    ]
+  }
+}

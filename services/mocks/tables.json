@@ -1,0 +1,84 @@
+{
+  "dashboard": [
+    {
+      "name": "John Micheal",
+      "note": "3",
+      "commentaire": "Pas convaincu"
+    },
+    {
+      "name": "Alexa Miras",
+      "photo": "",
+      "note": "5",
+      "commentaire": "Super i love it"
+    }
+  ],
+  "shopList": [
+    {
+      "name": "H&M République",
+      "manager": "Thierry",
+      "city": "Paris",
+      "clientsNumber": "235",
+      "ticketsNumber": "235",
+      "averageXP": "8.5/10",
+      "status": "inactif"
+    },
+    {
+      "name": "H&M Mandelieu",
+      "manager": "Romain",
+      "city": "Mandelieu",
+      "clientsNumber": "35",
+      "ticketsNumber": "35",
+      "averageXP": "6.5/10",
+      "status": "actif"
+    }
+  ],
+
+  "clientXP": [
+    {
+      "name": "Marie Tadaaoui",
+      "date": "28/04/21",
+      "grade": "2",
+      "comment": "Vendeurs indisponibles"
+    },
+    {
+      "name": "Coralie Manet",
+      "date": "29/04/21",
+      "grade": "2",
+      "comment": "Vendeurs indisponibles"
+    }
+  ],
+
+  "clientList": [
+    {
+      "name": "Coralie Manet",
+      "lastVisit": "29/04/21",
+      "subscriptionDate": "29/04/21",
+      "lastOfferSent": "Offre XXXXXXX"
+    },
+    {
+      "name": "Manon Manet",
+      "lastVisit": "30/04/21",
+      "subscriptionDate": "30/04/21",
+      "lastOfferSent": "Offre YYYYYYYY"
+    }
+  ],
+
+  "userList": [
+    {
+      "email": "Johnny.wood@gmail.com",
+      "lastName": "Wood",
+      "firstName": "Johnny",
+      "role": "user",
+      "brand": "H&M",
+      "status": "actif"
+    },
+    {
+      "email": "george.clark@gmail.com",
+      "lastName": "Clark",
+      "firstName": "George",
+      "role": "admin",
+      "brand": "Zara",
+      "status": "actif"
+    }
+  ]
+}

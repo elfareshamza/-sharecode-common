@@ -1,0 +1,1 @@
+export const sharedVariable = "this is the shared variable";
